@@ -1,2 +1,2 @@
-# abanoub_calculator
-simple-calculation
+# simple-calculation
+الة حاسبة بسيطة
